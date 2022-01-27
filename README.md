@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gangaramsahu337
+- 👋 Hi, I’m Gangaram Sahu
 
 - 🌱 I’m currently learning C++ 
 
